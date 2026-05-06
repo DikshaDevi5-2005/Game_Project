@@ -1,55 +1,48 @@
-# 🎮 Game Project – Puzzle Game System
+# 🎮 Game Project 
 
 ## 📌 Overview
-Game Project is a web-based interactive puzzle game built using React.js.  
-It is designed as a final-year academic project to demonstrate frontend development skills, UI design, and game logic implementation.
 
-The game provides multiple puzzle challenges with levels, scoring system, and responsive design for a smooth user experience.
+Game Project is a web-based puzzle game built using React, Phaser, and Node.js.  
+It lets users play different puzzle levels in a smooth and interactive way.
+
+The game focuses on simple gameplay, clean UI, and a responsive design that works on both mobile and desktop.
 
 ---
 
 ## 🎯 Objective
-The main objective of this project is to develop an engaging and educational gaming platform that improves logical thinking, problem-solving ability, and user interaction through puzzle-based gameplay.
+
+The goal of this project is to create a fun puzzle game that improves logical thinking and problem-solving while combining frontend, backend, and game development.
 
 ---
 
 ## ✨ Features
-- 🧩 Multiple puzzle challenges  
-- 🎯 Level-based progression system  
-- ⚡ Interactive gameplay experience  
-- 📱 Fully responsive design (mobile + desktop)  
-- 🔄 Restart and replay options  
-- 🎮 Smooth animations and UI experience  
 
----
+### 🎮 Game Features (Phaser)
+- 🧩 Puzzle-based levels  
+- 🎯 Multiple levels (Level 1 to Level 5)  
+- 🔄 Restart and replay option  
+- ⚡ Smooth animations and gameplay  
 
-## 🛠️ Technologies Used
+### 🖥️ Frontend (React)
+- 🎨 Clean and simple UI  
+- 📱 Responsive design  
+- 🔐 Login and Signup pages  
+- 🧭 Level selection screen  
+
+### 🔐 Backend (Node.js + Express)
+- 👤 User authentication  
+- 💾 MongoDB database  
+- 🔗 API integration  
+
+## 🛠️ Tech Stack
+
 - React.js  
-- JavaScript (ES6+)  
-- HTML5  
-- CSS3  
+- Phaser.js  
+- Node.js  
+- Express.js  
+- MongoDB  
+- HTML  
+- CSS  
+- JavaScript  
 
----
 
-## 📁 Project StructureGame Project/
-├── frontend (React App)
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── package.json
-│   └── README.md
-│
-├── backend (Node.js / Express)
-│   ├── models/
-│   ├── routes/
-│   ├── server.js
-│   └── .env
-│
-<<<<<<< HEAD
-└── README.md
-=======
-└── README.md
->>>>>>> e2c9291bc96d90bca62a726349059995ee7300d2
