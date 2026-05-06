@@ -31,7 +31,6 @@ The goal of this project is to create a fun puzzle game that improves logical th
 
 ### 🔐 Backend (Node.js + Express)
 - 👤 User authentication  
-- 💾 MongoDB database  
 - 🔗 API integration  
 
 ## 🛠️ Tech Stack
@@ -39,8 +38,7 @@ The goal of this project is to create a fun puzzle game that improves logical th
 - React.js  
 - Phaser.js  
 - Node.js  
-- Express.js  
-- MongoDB  
+- Express.js   
 - HTML  
 - CSS  
 - JavaScript  
