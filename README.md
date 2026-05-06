@@ -1,6 +1,6 @@
 # 🎮 Game Project 
 
-# 🎮 Web-Based Puzzle Games
+ 🎮 Web-Based Puzzle Games
 
 ## 📌 Overview
 
